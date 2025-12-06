@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Petr Iakovenko 👋
 
-<!--
-**PetrYako/PetrYako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer | Test Automation Specialist
 
-Here are some ideas to get you started:
+I'm a QA Engineer based in Serbia with 5+ years of experience in software testing. I specialize in building and maintaining test automation frameworks and have contributed to the [Kotest](https://github.com/kotest/kotest) testing framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java, Kotlin, Groovy, SQL, TypeScript, JavaScript |
+| **Testing & Frameworks** | Cucumber, Rest Assured, Appium, Retrofit, Allure, Ktor, Spring Boot |
+| **Build Tools** | Gradle, Maven |
+| **CI/CD** | Jenkins, TeamCity, GitLab |
+
+---
+
+### 💼 What I Do
+
+🧪 **Test Automation** — Build and maintain frameworks for API, UI, Mobile, and Load testing
+
+🛠️ **Multi-layer Testing** — Work with UI, API, and DB tests
+
+👥 **Mentoring** — Help people and create automation frameworks from scratch
+
+🤝 **Open Source** — Contribute to projects like Kotest
+
+---
+
+### 📊 Current Role
+
+**QA Engineer at Slotegrator** (since 2023)
+
+Building test automation frameworks in Kotlin for API, UI, Mobile, and Load testing.
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-i-880554197/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=PetrYako&color=brightgreen)
