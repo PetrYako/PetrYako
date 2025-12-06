@@ -11,7 +11,7 @@ I'm a QA Engineer based in Serbia with 5+ years of experience in software testin
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Java, Kotlin, Groovy, SQL, TypeScript, JavaScript |
-| **Testing & Frameworks** | Cucumber, Rest Assured, Appium, Retrofit, Allure, Ktor, Spring Boot |
+| **Testing & Frameworks** | Kotest, Cucumber, Rest Assured, Appium, Allure, Ktor, Playwright, Selenide |
 | **Build Tools** | Gradle, Maven |
 | **CI/CD** | Jenkins, TeamCity, GitLab |
 
