@@ -1,8 +1,8 @@
-# Hi, I'm Petr Yakovenko 👋
+# Hi, I'm Petr Yakovenko
 
 ## QA Engineer | Test Automation Specialist
 
-I'm a QA Engineer based in Serbia with 5+ years of experience in software testing. I specialize in building and maintaining test automation frameworks and have contributed to the [Kotest](https://github.com/kotest/kotest) testing framework.
+I'm a QA Engineer based in Serbia with 5+ years of experience in software testing. I specialize in building and maintaining test automation frameworks
 
 ---
 
@@ -10,8 +10,8 @@ I'm a QA Engineer based in Serbia with 5+ years of experience in software testin
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Java, Kotlin, Groovy, SQL, TypeScript, JavaScript |
-| **Testing & Frameworks** | Kotest, Cucumber, Rest Assured, Appium, Allure, Ktor, Playwright, Selenide |
+| **Languages** | Java, Kotlin, Groovy, SQL, TypeScript, JavaScript, Python |
+| **Testing & Frameworks** | Kotest, Cucumber, Rest Assured, Appium, Allure, Ktor, Playwright, Selenide, Pytest |
 | **Build Tools** | Gradle, Maven |
 | **CI/CD** | Jenkins, TeamCity, GitLab |
 
