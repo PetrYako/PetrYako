@@ -1,4 +1,4 @@
-# Hi, I'm Petr Yakovenko
+# Hi, I'm Petr Iakovenko
 
 ## QA Engineer | Test Automation Specialist
 
